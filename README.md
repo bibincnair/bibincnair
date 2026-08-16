@@ -1,0 +1,22 @@
+# Hi, I'm Bibin 👋
+
+I use this space to explore robotics, autonomous systems, embedded software,
+machine learning, and systems programming.
+
+## Areas of interest
+
+- Robotics and mobile manipulation
+- SLAM, VIO, and sensor fusion
+- Motion planning and control
+- Embedded and real-time systems
+- GPU computing and edge inference
+- Simulation and developer tooling
+
+## Languages
+
+C++ · Rust · Python · Go · C
+
+## APIs and tools
+
+ROS 2 · DDS · OpenCV · PCL · PyTorch · CUDA · TensorRT · ONNX Runtime  
+Isaac Sim · Rapier · Linux · CMake · Docker · GitHub Actions
