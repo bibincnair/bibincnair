@@ -1,7 +1,6 @@
 # Hi, I'm Bibin 👋
 
-I use this space to explore robotics, autonomous systems, embedded software,
-machine learning, and systems programming.
+I use this space to explore robotics, autonomous systems, embedded software, and systems programming.
 
 ## Areas of interest
 
