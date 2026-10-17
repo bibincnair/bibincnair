@@ -17,4 +17,4 @@ C++ · C · Go · Python · Rust
 ## APIs and tools
 
 ROS 2 · DDS · OpenCV · PCL · PyTorch · CUDA · TensorRT · ONNX Runtime  
-Isaac Sim · Rapier · Linux · CMake · Docker · GitHub Actions
+Isaac Sim  · Linux · CMake · Docker · GitHub Actions
