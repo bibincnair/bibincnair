@@ -12,7 +12,7 @@ I use this space to explore robotics, autonomous systems, embedded software, and
 
 ## Languages
 
-C++ · Rust · Python · Go · C
+C++ · C · Go · Python · Rust
 
 ## APIs and tools
 
