@@ -4,9 +4,8 @@ I use this space to explore robotics, autonomous systems, embedded software, and
 
 ## Areas of interest
 
-- Robotics and mobile manipulation
+- Perception for robotics
 - SLAM, VIO, and sensor fusion
-- Motion planning and control
 - Embedded and real-time systems
 - GPU computing and edge inference
 - Simulation and developer tooling
